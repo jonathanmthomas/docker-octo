@@ -2,9 +2,7 @@
 
 ```bash
 ├── scripts
-│   ├── stop all containers
-│   ├── remove all containers
-│   ├── kill all images
+│   ├── clean_docker.sh (-h for options)
 ├── python-buster-docker (basic python docker setup with Pipfile support)
 │   ├── README.md
 ```
